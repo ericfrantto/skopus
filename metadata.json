@@ -1,0 +1,8 @@
+
+{
+  "name": "skópus",
+  "description": "Uma plataforma completa para SDRs, Copywriters e Prestadores de Serviço com prospecção inteligente, gerador de copy persuasiva e automação de contratos.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
